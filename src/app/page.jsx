@@ -7,7 +7,7 @@ export default function Home(){
 <>
 
 
-    <h1> This is Ebade's Home Page by {user} </h1>
+    <h1> This is Ebade&apos;s Home Page by {user} </h1>
     </>
   )
 }
